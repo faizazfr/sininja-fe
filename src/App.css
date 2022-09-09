@@ -1,0 +1,169 @@
+.navbar {
+  background: linear-gradient(rgb(50, 255, 255), rgb(255, 255, 255));
+}
+
+.navbarlogin {
+  background: linear-gradient(rgb(255, 255, 255), rgb(255, 255, 255));
+}
+
+.deliverylogo {
+  width: 50px;
+}
+
+.navbartitle {
+  margin-top: 5px;
+  color: rgb(0, 0, 0);
+}
+
+.section {
+  background: linear-gradient(rgb(255, 255, 255), rgb(50, 255, 255));
+  min-height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aboutninja {
+  background: linear-gradient(rgb(50, 255, 255), rgb(255, 255, 255));
+}
+
+.aboutperusahaan {
+  background: linear-gradient(rgb(255, 255, 255), rgb(50, 255, 255));
+  display: flex;
+}
+
+.container {
+  text-align: center;
+}
+
+.logo {
+  width: 100px;
+}
+
+.sininja {
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.indo {
+  width: 1000px;
+  margin-top: 30px;
+}
+
+.kolom1 {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.sininja {
+  text-align: center;
+}
+
+.kolom2 {
+  text-align: justify;
+  margin-top: 80px;
+}
+
+.lnswlogo {
+  width: 300px;
+}
+
+.visi,
+.misi {
+  font-size: large;
+}
+
+.map {
+  margin-bottom: 10px;
+}
+
+.jamlayanan {
+  text-align: left;
+  margin-left: 130px;
+}
+
+.hubungikami {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: large;
+}
+
+.daftar {
+  font-size: x-large;
+}
+
+.registersukses {
+  height: 400px;
+  width: 800px;
+  background: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: x-large;
+}
+
+/* login */
+
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #172031;
+}
+
+* {
+  font-family: 'Outfit'; sans-serif
+}
+
+.login-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  padding: 40px;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, .5);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.login-box h2 {
+  margin: 0 0 30px;
+  padding: 0;
+  color: #fff;
+  text-align: center;
+}
+
+.login-box .user-box {
+  position: relative;
+}
+
+.login-box .user.box input {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 16px;
+  color : #fff;
+  margin-bottom: 30px;
+  border: none;
+  border-bottom: 1px solid #fff;
+  outline: none;
+  background: transparent;
+}
+
+.login-box .user.box label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  color: #fff;
+  pointer-events: none;
+  transition: .5s;
+} */
